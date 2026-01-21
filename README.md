@@ -27,19 +27,25 @@ KD and Beth have deep domain expertise in the food and beverage wholesale indust
 Working at one of Australia’s largest retail supermarket chain in Australia, they experienced firsthand the inefficiencies in the food and beverage value chain.
 They founded FOBOH with the shared mission to enable a simpler, smarter and more sustainable wholesale ecosystem.
 
-![Photo of KD](https://framerusercontent.com/images/XRKc4g0B3XJPwilHaj46fpd0oQ.png?scale-down-to=350&width=350&height=350)
-
-Kshitija Deshmukh
-
-_CEO / Co-Founder_
-
-
-![Photo of Beth](https://framerusercontent.com/images/kx8K3E2GOMBb6qi9HSziLCPMzY.png?scale-down-to=350&width=350&height=350)
-
-Bethany Lovell
-
-_CPO / Co-Founder_
+| ![Photo of KD](https://framerusercontent.com/images/XRKc4g0B3XJPwilHaj46fpd0oQ.png?scale-down-to=400&width=400&height=400) | ![Photo of Beth](https://framerusercontent.com/images/kx8K3E2GOMBb6qi9HSziLCPMzY.png?scale-down-to=400&width=400&height=400) |
+| --- | --- |
+| Kshitija Deshmukh | Bethany Lovell |
+| CEO / Co-Founder | CPO / Co-Founder |
 
 ## Careers at FOBOH
 
 We're hiring! [View our open roles](https://app.dover.com/dover/careers/77419cce-5e1e-492d-990e-dcc5af1e3f8b)
+
+
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
