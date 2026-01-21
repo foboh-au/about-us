@@ -35,17 +35,3 @@ They founded FOBOH with the shared mission to enable a simpler, smarter and more
 ## Careers at FOBOH
 
 We're hiring! [View our open roles](https://app.dover.com/dover/careers/77419cce-5e1e-492d-990e-dcc5af1e3f8b)
-
-
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
